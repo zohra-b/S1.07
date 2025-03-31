@@ -1,5 +1,5 @@
 
-<p align="center"><h1 align="center">S1.06. Generics </h1></p>
+<p align="center"><h1 align="center">S1.07. Annotations </h1></p>
 
 <br>
 
