@@ -5,8 +5,8 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-@Retention(RetentionPolicy.RUNTIME) //to make it available at runtime.
-@Target(ElementType.TYPE)  //  so it can only be used on classes
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.TYPE)  //
 public @interface MyAnnotation {
     String directory();
 }
